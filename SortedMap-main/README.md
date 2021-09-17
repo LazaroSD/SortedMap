@@ -4,4 +4,5 @@ Desarrollo de una aplicación con interfaz gráfica para el tipo de colección S
  1 Paola Danae Mancilla Garcia
  2
  3 Lazaro Santamaria Diaz
- 4
+ 4 Miguel Alcaraz Vazquez
+ 
