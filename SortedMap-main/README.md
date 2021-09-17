@@ -1,6 +1,6 @@
 # SortedMap
 Desarrollo de una aplicación con interfaz gráfica para el tipo de colección SortedMap
- Equipo:
+ Equipo:8
  1 Paola Danae Mancilla Garcia
  2 Jose Manuel Ramírez Cienfuegos
  3 Lazaro Santamaria Diaz
